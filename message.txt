@@ -1,0 +1,3 @@
+Dear {year},
+
+Message goes here.
